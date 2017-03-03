@@ -8,7 +8,7 @@
 * [Code](https://github.com/dat17v1/18_Arrays_ForLoop/tree/master/Code)
 
 ## Array øvelserne kan i finde i mappen:
-* [Materialer](https://github.com/dat17v1/18_Arrays_ForLoop/blob/master/Materialer/Arrays.md) 
+* [Exercises](https://github.com/dat17v1/18_Arrays_ForLoop/blob/master/Exercises/Arrays.md) 
 
 
 
