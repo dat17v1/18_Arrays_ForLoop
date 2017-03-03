@@ -10,7 +10,9 @@ public class Arr
         // navn = "Claus";
         // boolean isAlive = true;
 
-        
+        int[] numbers = new int[10];
+        numbers[0] = 99;
+
         // Array
         String[] students = new String[10];
         students[0] = "Ib";
@@ -22,7 +24,6 @@ public class Arr
 
         students[0] = "";
         students[1] = null;
-
 
 
         System.out.println("=====================");
