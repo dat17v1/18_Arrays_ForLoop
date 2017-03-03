@@ -10,7 +10,7 @@ public class Arr
         // navn = "Claus";
         // boolean isAlive = true;
 
-
+        
         // Array
         String[] students = new String[10];
         students[0] = "Ib";
