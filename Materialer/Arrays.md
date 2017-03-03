@@ -2,7 +2,7 @@
 
 ====
 
-1. Create an Array of Integers. The Array should have the length of 10
+1. Create an Array of int. The Array should have the length of 10
     * Add numbers to the array and print it all to the console
 1. Create an Array of Strings. The Array should have the length of 10
     * Add Names to the array and print it all to the console
